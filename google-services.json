@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "942916086623",
+    "project_id": "outdoor-sports-equipment",
+    "storage_bucket": "outdoor-sports-equipment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942916086623:android:e7e7f00a939a1a5b6364ea",
+        "android_client_info": {
+          "package_name": "id.ac.stiki.doleno.outdoorsportsequipment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942916086623-sjoqj7f1c1ui06nkakda4j59ga7jfvkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.stiki.doleno.outdoorsportsequipment",
+            "certificate_hash": "314802849c8939d146e052b5b9445e8d814d4a59"
+          }
+        },
+        {
+          "client_id": "942916086623-gogl3je41uq0t3kibo5k2s1ql75e7vog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKYixsk69OnnQgl0p2FTKRXbd_-XvHGzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942916086623-gogl3je41uq0t3kibo5k2s1ql75e7vog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
